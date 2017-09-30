@@ -1,0 +1,56 @@
+body {
+  margin-top: 40px;
+  margin-bottom: 40px
+}
+
+#body {
+  padding: 20px 0px 20px 0px;
+  background-color: #e3e3e3;
+  border-radius: 20px;
+  margin: 0% 5% 0% 5%;
+}
+
+h2 {
+  margin: 20px 0px 30px 0px;
+}
+
+.container-fluid {
+  background-color: #fdfdfd;
+}
+
+figcaption {
+  padding: 0px 0px 0px 0px;
+  margin-top: 10px;
+}
+
+#body-text {
+  margin: 0% 10% 0% 10%;
+}
+
+#topimg {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+#timeline {
+  padding: 10px 15px 5px 0px;
+  margin: 3% 8% 5% 8%;
+  background-color: #f3f3f3;
+  border-radius: 10px;
+}
+
+#wiki {
+  margin: 5% 8% 5% 8%;
+}
+
+#imgdiv {
+  background-color: #fdfdfd;
+  margin: 0px 10% 0px 10%;
+  padding: 1% 1% 0% 1%;
+  border-radius: 10px;
+  border: 2px solid #e0e0e0;
+}
+
+#pg {
+  margin-top: 3%;
+}
